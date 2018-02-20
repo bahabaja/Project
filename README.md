@@ -45,7 +45,7 @@ switch1,router3
 switch1,router2
 switch1,router1
 
-where hostnames are separated by comma's for each line.
+where hostnames are separated by commas for each line.
 
 DrawTopology.py will take the output above and will draw a topology graph using networkx and matplotlib modules and open the graph in a .png file.
 
