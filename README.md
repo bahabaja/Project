@@ -1,9 +1,9 @@
 # Project
-*****!!!!!!!PLEASE READ FOR END USER INSTRUCTIONS!!!!!!*************
+!!!!!!!PLEASE READ FOR END USER INSTRUCTIONS!!!!!!
 
 Python Project - Network Programming
 This project consists of two python scripts.
-******************************************************************************************************************************************
+****************************************************************************************************************************************
 First Script - > PythonScript.py.
 PythonScript.py uses 3 files:
 range.txt,
