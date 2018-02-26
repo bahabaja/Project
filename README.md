@@ -2,6 +2,7 @@
 !!!!!!!PLEASE READ FOR END USER INSTRUCTIONS!!!!!!
 
 Python Project - Network Programming
+Python version used  - 2.7.3
 This project consists of three python scripts.
 ****************************************************************************************************************************************
 First Script - > PythonScript.py.
